@@ -337,5 +337,5 @@ document.getElementById("botreset").addEventListener("click", function(){
     document.getElementById("box4").style.height = box4h+ "px";
     document.getElementById("box4").style.width = box4w + "px";
     document.getElementById("box4").style.bottom = box4y + "px";
-    document.getElementById("box4").style.right = box4x + "px";
+    document.getElementById("box4").style.left = box4x + "px";
 });
